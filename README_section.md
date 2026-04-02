@@ -56,5 +56,5 @@ vlc-physical-layer-security/
 - Eavesdropper SNR surface
 - Countermeasure comparison bars
 
-## Professor-Facing One-Liner
+## One-Liner
 This repository demonstrates reproducible research engineering, clearly stated novelty, benchmark-aware evaluation, and PhD-ready technical communication.
